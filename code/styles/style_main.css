@@ -14,7 +14,7 @@
     justify-content: center;
     height: 100vh;
     opacity: 0;
-    animation: fadein 2s ease-in-out forwards;
+    animation: fadein 1.5s ease-in-out forwards;
   }
 
   @keyframes fadein {
